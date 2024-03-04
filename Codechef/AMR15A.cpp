@@ -15,5 +15,3 @@ int main() {
 	else cout<<"NOT READY\n";
 	return 0;
 }
-
-// check
