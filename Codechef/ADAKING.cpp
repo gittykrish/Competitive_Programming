@@ -1,10 +1,9 @@
 #include<bits/stdc++.h>
-//
 using namespace std;
 int main(){
-    int tc;
-    cin>>tc;
-    while(tc--){
+    int t;
+    cin>>t;
+    while(t--){
         int k,a=0,m=9;
         cin>>k;
         if(k%8==0){

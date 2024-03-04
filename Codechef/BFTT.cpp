@@ -1,11 +1,11 @@
 #include<stdio.h>
 int main()
 {
- int t,i,rem;
+ int tes,i,rem;
  long long int n,temp; 
- scanf("%d",&t);
+ scanf("%d",&tes);
  
- for(i=1;i<=t;i++)
+ for(i=1;i<=tes;i++)
  {
      scanf("%lld",&n);
         
