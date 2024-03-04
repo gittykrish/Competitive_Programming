@@ -2,10 +2,8 @@
 //
 using namespace std;
 int main(){
-     int t;
-    
+    int t;
     cin>>t;
-   
     while(t--){
         int k,a=0,m=9;
         cin>>k;
